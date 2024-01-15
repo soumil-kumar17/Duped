@@ -1,0 +1,14 @@
+C:\Soumil\Programming\C#\Duped\bin\Debug\net8.0\Duped.exe
+C:\Soumil\Programming\C#\Duped\bin\Debug\net8.0\Duped.deps.json
+C:\Soumil\Programming\C#\Duped\bin\Debug\net8.0\Duped.runtimeconfig.json
+C:\Soumil\Programming\C#\Duped\bin\Debug\net8.0\Duped.dll
+C:\Soumil\Programming\C#\Duped\bin\Debug\net8.0\Duped.pdb
+C:\Soumil\Programming\C#\Duped\obj\Debug\net8.0\Duped.GeneratedMSBuildEditorConfig.editorconfig
+C:\Soumil\Programming\C#\Duped\obj\Debug\net8.0\Duped.AssemblyInfoInputs.cache
+C:\Soumil\Programming\C#\Duped\obj\Debug\net8.0\Duped.AssemblyInfo.cs
+C:\Soumil\Programming\C#\Duped\obj\Debug\net8.0\Duped.csproj.CoreCompileInputs.cache
+C:\Soumil\Programming\C#\Duped\obj\Debug\net8.0\Duped.dll
+C:\Soumil\Programming\C#\Duped\obj\Debug\net8.0\refint\Duped.dll
+C:\Soumil\Programming\C#\Duped\obj\Debug\net8.0\Duped.pdb
+C:\Soumil\Programming\C#\Duped\obj\Debug\net8.0\Duped.genruntimeconfig.cache
+C:\Soumil\Programming\C#\Duped\obj\Debug\net8.0\ref\Duped.dll
